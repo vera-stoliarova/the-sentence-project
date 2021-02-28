@@ -5,7 +5,7 @@ As an English Language instructor, while teaching or recycling/revising vocabula
 
 * there were not enough practice exercises on target language in the chosen coursebook;
 * the exercises were linked by a single topic and failed to demonstrate the variety of context a vocabulary unit could be used in;
-* I wanted to draw my students’ attention to and practice extra vocabulary units instead or in addition to those picked by the authors of the chosen coursebook;
+* I wanted to draw my students’ attention to and practise extra vocabulary units instead of or in addition to those picked by the authors of the chosen coursebook;
 * I wanted to build up my students’ motivation to study by demonstrating how target vocabulary was used outside the coursebook in their favourite books and films thus encouraging them to read/watch more in English rather than with translation. 
 
 In my experience, **a gap-fill exercise** is one of the best ways not only to practice meaning and form, but also teach students to notice collocates and co-text. However, creating such exercises by looking up examples in dictionaries or books could be a time-consuming an tedious task because you can only look up one item at a time, you have to copy/paste the sentence and edit it.
